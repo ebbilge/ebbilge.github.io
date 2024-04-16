@@ -1,1 +1,0 @@
-WI'm a med student and a amateur coder. I love learning. 

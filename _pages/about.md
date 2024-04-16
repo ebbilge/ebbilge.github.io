@@ -6,7 +6,7 @@ subtitle:
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: crochet.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Paracosm: a detailed imaginary world created inside one's mind</p>
